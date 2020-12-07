@@ -1,2 +1,2 @@
-# GCSO-project20
-this project is created using javascript in VISUAL STUDIO CODE
+# p5.play-boilerplate
+Boiler plate for p5.play
